@@ -44,8 +44,10 @@ migrate -N explorer.exe at meterpreter > prompt, execute this command: netstat A
 Post Exploitation:
 The target is now owned. Following are meterpreter commands for key capturing in the target machine keyscan_start Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
 keyscan_dump Shows the keystrokes captured so far
-
-ssssssssssssssssssssssssss
+![image](https://github.com/user-attachments/assets/729dc34c-b5b1-4cc6-8770-22d2331caede)
+![image](https://github.com/user-attachments/assets/d93cac14-3fc3-444b-8159-bc2e0bc66d3a)
+![image](https://github.com/user-attachments/assets/2cfb6dd1-773b-4b42-9cd5-6cbb204a3145)
+![image](https://github.com/user-attachments/assets/0810a377-a529-4f89-896e-af33fad9b043)
 
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
